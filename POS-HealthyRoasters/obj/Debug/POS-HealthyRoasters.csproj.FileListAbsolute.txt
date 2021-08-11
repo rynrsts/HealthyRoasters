@@ -1,0 +1,196 @@
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.exe.config
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.exe
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.pdb
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csprojAssemblyReference.cache
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Properties.Resources.resources
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.GenerateResource.cache
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.CoreCompileInputs.cache
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.exe
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.pdb
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\Google.Protobuf.dll
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\MySql.Data.dll
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\Renci.SshNet.dll
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\Google.Protobuf.xml
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\MySql.Data.xml
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\Renci.SshNet.xml
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.CopyComplete
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.register_pos.resources
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.login.resources
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.admin_pos.resources
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.activity_log.resources
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.view_employee.resources
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.sales_report.resources
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.view_products.resources
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_Discount.resources
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_ManagerDiscount.resources
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_CouponDiscount.resources
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Coupons.resources
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.void_Validation.resources
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_frmDIscount.resources
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.ResolveComReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.exe.config
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.ResolveComReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.exe
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.pdb
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\Google.Protobuf.dll
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\MySql.Data.dll
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\Renci.SshNet.dll
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\Google.Protobuf.xml
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\MySql.Data.xml
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\bin\Debug\Renci.SshNet.xml
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.activity_log.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.admin_pos.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Coupons.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_CouponDiscount.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_Discount.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_frmDiscount.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_ManagerDiscount.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.view_products.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.login.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.register_pos.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Properties.Resources.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.view_employee.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.sales_report.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.void_Validation.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.GenerateResource.Cache
+C:\Users\parru\source\repos\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Receipt.resources
+C:\Users\Ryan\Documents\Visual Studio 2015\Projects\Healthy Roasters\Healthy Roasters - POS\POS-HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Receipt.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.exe.config
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.exe
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.pdb
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\bin\Debug\Google.Protobuf.dll
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\bin\Debug\MySql.Data.dll
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\bin\Debug\Renci.SshNet.dll
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\bin\Debug\Google.Protobuf.xml
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\bin\Debug\MySql.Data.xml
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\bin\Debug\Renci.SshNet.xml
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.ResolveComReference.cache
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.activity_log.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.admin_pos.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Coupons.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_CouponDiscount.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_Discount.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_frmDiscount.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_ManagerDiscount.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Receipt.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.view_products.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.login.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.register_pos.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Properties.Resources.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.view_employee.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.sales_report.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.void_Validation.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.CopyComplete
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.exe
+C:\Users\Acer\Documents\Works\Visual Studio\Point of Sales (POS) - Healthy Roasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.pdb
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.exe.config
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.exe
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.pdb
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\Google.Protobuf.dll
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\MySql.Data.dll
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\Renci.SshNet.dll
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\Google.Protobuf.xml
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\MySql.Data.xml
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\Renci.SshNet.xml
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.ResolveComReference.cache
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.activity_log.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.admin_pos.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Coupons.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_CouponDiscount.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_Discount.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_frmDiscount.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_ManagerDiscount.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Receipt.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.view_products.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.login.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.register_pos.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Properties.Resources.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.view_employee.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.sales_report.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.void_Validation.resources
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.CopyComplete
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.exe
+C:\Users\Acer\Documents\Works\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.pdb
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.exe.config
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.exe
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.pdb
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\Google.Protobuf.dll
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\MySql.Data.dll
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\Renci.SshNet.dll
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\Google.Protobuf.xml
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\MySql.Data.xml
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\bin\Debug\Renci.SshNet.xml
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.ResolveComReference.cache
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.activity_log.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.admin_pos.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Coupons.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_CouponDiscount.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_Discount.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_frmDiscount.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_ManagerDiscount.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Receipt.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.view_products.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.login.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.register_pos.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Properties.Resources.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.view_employee.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.sales_report.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.void_Validation.resources
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.CopyComplete
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.exe
+C:\Users\Acer\Documents\Portfolio\Desktop Application\Visual Studio\Healthy Roasters - Point of Sales (POS)\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.pdb
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.exe.config
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.exe
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\bin\Debug\POS-HealthyRoasters.pdb
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\bin\Debug\Google.Protobuf.dll
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\bin\Debug\MySql.Data.dll
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\bin\Debug\Renci.SshNet.dll
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\bin\Debug\Google.Protobuf.xml
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\bin\Debug\MySql.Data.xml
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\bin\Debug\Renci.SshNet.xml
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.ResolveComReference.cache
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.activity_log.resources
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.admin_pos.resources
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Coupons.resources
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_CouponDiscount.resources
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_Discount.resources
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_frmDiscount.resources
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.pos_ManagerDiscount.resources
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Receipt.resources
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.view_products.resources
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.login.resources
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.register_pos.resources
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.Properties.Resources.resources
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.view_employee.resources
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.sales_report.resources
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS_HealthyRoasters.void_Validation.resources
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.csproj.CopyComplete
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.exe
+C:\Users\Acer\Documents\Portfolio\Windows Forms\HealthyRoasters\POS-HealthyRoasters\obj\Debug\POS-HealthyRoasters.pdb

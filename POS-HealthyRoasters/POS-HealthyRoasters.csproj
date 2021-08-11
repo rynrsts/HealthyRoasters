@@ -1,0 +1,256 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A7662904-B9E5-4273-8735-D3AE843F8880}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>POS_HealthyRoasters</RootNamespace>
+    <AssemblyName>POS-HealthyRoasters</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BouncyCastle.Crypto, Version=1.8.3.0, Culture=neutral, PublicKeyToken=0e99375e54769942">
+      <HintPath>..\packages\BouncyCastle.1.8.3.1\lib\BouncyCastle.Crypto.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.6.1.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.6.1\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.19.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.19\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Renci.SshNet, Version=2016.1.0.0, Culture=neutral, PublicKeyToken=1cee9f8bde3db106, processorArchitecture=MSIL">
+      <HintPath>..\packages\SSH.NET.2016.1.0\lib\net40\Renci.SshNet.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Ubiety.Dns.Core, Version=2.2.1.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.19\lib\net452\Ubiety.Dns.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="activity_log.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="activity_log.Designer.cs">
+      <DependentUpon>activity_log.cs</DependentUpon>
+    </Compile>
+    <Compile Include="admin_pos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="admin_pos.Designer.cs">
+      <DependentUpon>admin_pos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controller.cs" />
+    <Compile Include="Coupons.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Coupons.Designer.cs">
+      <DependentUpon>Coupons.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excel.cs" />
+    <Compile Include="NativeWinAPI.cs" />
+    <Compile Include="pos_CouponDiscount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pos_CouponDiscount.Designer.cs">
+      <DependentUpon>pos_CouponDiscount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pos_Discount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pos_Discount.Designer.cs">
+      <DependentUpon>pos_Discount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pos_frmDiscount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pos_frmDiscount.Designer.cs">
+      <DependentUpon>pos_frmDiscount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="pos_ManagerDiscount.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="pos_ManagerDiscount.Designer.cs">
+      <DependentUpon>pos_ManagerDiscount.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Receipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Receipt.Designer.cs">
+      <DependentUpon>Receipt.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view_products.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_products.Designer.cs">
+      <DependentUpon>view_products.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBConnect.cs" />
+    <Compile Include="login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="login.Designer.cs">
+      <DependentUpon>login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="register_pos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="register_pos.Designer.cs">
+      <DependentUpon>register_pos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="view_employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view_employee.Designer.cs">
+      <DependentUpon>view_employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sales_report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sales_report.Designer.cs">
+      <DependentUpon>sales_report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="void_Validation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="void_Validation.Designer.cs">
+      <DependentUpon>void_Validation.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="activity_log.resx">
+      <DependentUpon>activity_log.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="admin_pos.resx">
+      <DependentUpon>admin_pos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Coupons.resx">
+      <DependentUpon>Coupons.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pos_CouponDiscount.resx">
+      <DependentUpon>pos_CouponDiscount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pos_Discount.resx">
+      <DependentUpon>pos_Discount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pos_frmDiscount.resx">
+      <DependentUpon>pos_frmDiscount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="pos_ManagerDiscount.resx">
+      <DependentUpon>pos_ManagerDiscount.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Receipt.resx">
+      <DependentUpon>Receipt.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view_products.resx">
+      <DependentUpon>view_products.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="login.resx">
+      <DependentUpon>login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="register_pos.resx">
+      <DependentUpon>register_pos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="view_employee.resx">
+      <DependentUpon>view_employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sales_report.resx">
+      <DependentUpon>sales_report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="void_Validation.resx">
+      <DependentUpon>void_Validation.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
