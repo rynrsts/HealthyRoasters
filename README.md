@@ -61,3 +61,16 @@ Point of sales system for Healthy Roasters
 - Visual Studio 2019
 - MySQL
 - XAMPP
+
+### Note
+
+- XAMPP
+	- I am still using XAMPP v3.2.2
+	- Since 5.5.30 and 5.6.14, XAMPP ships MariaDB instead of MySQL
+	- Though MariaDB is a fork of MySQL, I do not know the differences in runtime
+
+<br>
+
+## How to Execute
+
+[Click here to see the instructions](https://github.com/rynrsts/HealthyRoasters/blob/main/EXECUTE.md)
